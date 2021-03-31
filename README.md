@@ -1,5 +1,15 @@
 ### Hi there 👋
+My name is Yonathan Wolloch, currently pursuing a Computer Science with Big Data bachelors degree from Ben-Gurion University of the Negev in Israel.
 
+🌱 I’m currently learning:
+- Machine learning algorithms and libraries like sklearn.
+- JavaScript.
+- Big data and Machine learning optimization methods.
+
+Projects that I've worked on:
+⚡ Cryptocurrency trading bot - Built an autonomous bot as a part of a team. The bot buys and sells cryptocurrency according to its own strategies. This is a multi-threaded OOP Java program that uses Binance’s Rest and WebSocket APIs. Link: https://github.com/yonathan95/BinanceTradingBot
+
+📫 Looking for my first software developer poisition! Contact me at: yonathan.wolloch@gmail.com for CV.
 <!--
 **yonathan95/yonathan95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
