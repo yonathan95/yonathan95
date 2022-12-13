@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Yonathan Wolloch, currently pursuing a Computer Science with specialization in Data Science bachelors degree from Ben-Gurion University of the Negev in Israel.
+My name is Yonathan Wolloch, currently pursuing a Computer Science with specialization in Data Science bachelors master degree from Ben-Gurion University of the Negev in Israel.
 
 🌱 I’m currently learning:
 - Machine learning algorithms and libraries like sklearn.
